@@ -1,5 +1,5 @@
-# Tab Tracker
-A Vue.js / Express.js web application for keeping track of guitar tabs
+# DenunciApp Boilerplate
+A Vue.js / Express.js web application for DenunciApp UNFV - Euded Project
 
 # Setup
 
@@ -12,8 +12,6 @@ Don't know how to install different version of node?  Try this: https://github.c
 I suggest you install the following that I use in the video:
 
 VSCode: https://code.visualstudio.com/
-
-ITerm2: https://www.iterm2.com/ (Mac Only)
 
 Git: https://git-scm.com/
 
