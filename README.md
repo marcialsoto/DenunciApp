@@ -32,6 +32,6 @@ npm start
 - Jorge Villar
 - Kem Trujillo
 - Patricia Martinez
+- Giovanna Guadalupe
 - María Yamo
 - Max Vásquez
-- Giovanna Guadalupe
