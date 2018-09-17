@@ -28,10 +28,10 @@ npm start
 ```
 
 # Hecho con cariño por
-Marcial Soto
-Jorge Villar
-Kem Trujillo
-Patricia Martinez
-María Yamo
-Max Vásquez
-Giovanna Guadalupe
+- Marcial Soto
+- Jorge Villar
+- Kem Trujillo
+- Patricia Martinez
+- María Yamo
+- Max Vásquez
+- Giovanna Guadalupe
