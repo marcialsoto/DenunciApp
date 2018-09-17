@@ -26,7 +26,7 @@ npm install
 npm start
 ```
 
-# Hecho con cariño por
+# Desarrollado con <3 por
 - Marcial Soto
 - Jorge Villar
 - Kem Trujillo
