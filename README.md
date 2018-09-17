@@ -1,15 +1,13 @@
-# DenunciApp Boilerplate
-A Vue.js / Express.js web application for DenunciApp UNFV - Euded Project
+# NeoDato
+Aplicación Web basada en  Vue.js y Express.js para proyecto de Euded - UNFV.
 
 # Setup
 
-You need to have Node Js installed: https://nodejs.org/en/
+Necesitas tener Node JS instalado: https://nodejs.org/en/
 
-You must at least have **NODE version 8.2.1**
+Necesitas al menos la versión **NODE 8.2.1**
 
-Don't know how to install different version of node?  Try this: https://github.com/tj/n
-
-I suggest you install the following that I use in the video:
+Se sugiere la instlación de los siguientes aplicativos:
 
 VSCode: https://code.visualstudio.com/
 
@@ -28,3 +26,12 @@ cd server
 npm install
 npm start
 ```
+
+# Hecho con cariño por
+Marcial Soto
+Jorge Villar
+Kem Trujillo
+Patricia Martinez
+María Yamo
+Max Vásquez
+Giovanna Guadalupe
